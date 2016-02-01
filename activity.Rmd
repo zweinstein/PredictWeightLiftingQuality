@@ -5,6 +5,8 @@ date: "January 29, 2016"
 output: html_document
 ---
 
+## My GitHub Link for this project: https://github.com/zweinstein/PredictWeightLiftingQuality
+
 ## Synopsis
 
 Now people regularly quantify how much physical activity they do using devices such as Jawbone Up and Fitbit. It is interesting to also use such devices to quantify how well people do a particular activity. Here I built a machine learning algorithm to predict the quality of barbell lifting from activity monitors. The model was built on data collected from accelerometers on the belt, forearm, arm, and dumbbell of 6 participants while they performed barbell lifting exercise in five different fashions. More information about the experimental design and data collection is available on the [Human Activity Recognition website][1] and the [paper by Velloso, E. et al, 2013][2].

@@ -4,9 +4,7 @@ It is now possible to collect a large amount of data about personal movement usi
 
 In this project, I developed a machine learning algorithm to predict the quality of barbell lifting excercise using data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. More information about the original data is available from the [human activity recognition website] (http://groupware.les.inf.puc-rio.br/har).
 
-## Project Report
-
-**I have written the project report in the activity.Rmd file, and generated the activity.html file by knitr in Rstudio.**
+## I have written the project report in the activity.Rmd file, and generated the activity.html file by knitr in Rstudio.
 
 ## Data
 
